@@ -1,0 +1,13 @@
+{
+  "name": "Calculadora KDIGO IRA",
+  "short_name": "KDIGO IRA",
+  "description": "Calculadora KDIGO para Insuficiencia Renal Aguda",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563EB",
+  "icons": [
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "/favicon-32x32.png", "sizes": "32x32", "type": "image/png"}
+  ]
+}
